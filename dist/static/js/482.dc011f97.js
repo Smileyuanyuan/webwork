@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkLYY"]=self["webpackChunkLYY"]||[]).push([[482],{2482:function(t,u,e){e.r(u),e.d(u,{default:function(){return c}});var n=function(){var t=this,u=t._self._c;return u("div",{attrs:{id:"aboutme"}},[t._v(" this is about me ")])},r=[],s={data(){return{}},methods:{}},a=s,i=e(1001),l=(0,i.Z)(a,n,r,!1,null,"51d1077a",null),c=l.exports}}]);
